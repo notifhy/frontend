@@ -3,7 +3,7 @@ title: Privacy Policy
 description: "TEST"
 permalink: /privacy/
 ---
-# Privacy Policy - January, 17th 2021
+# Privacy Policy - January 17th, 2022
 
 Attituding built the NotifHy app as a Free app. This SERVICE is provided by Attituding at no cost and is intended for use as is.
 
