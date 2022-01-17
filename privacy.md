@@ -14,7 +14,7 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of these Terms and Conditions:
 
-*   **Application** means the software program provided by Me named NotifHy.
+*   **Application** means the software program provided by Attituding named NotifHy.
     
 *   **I** (also referred to as "Me") refers to Attituding.
     
