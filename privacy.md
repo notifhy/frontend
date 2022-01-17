@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-description "TEST"
+description: "TEST"
 permalink: /privacy/
 ---
 ## HELLO WORLD sadaddasdas
