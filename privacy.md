@@ -22,16 +22,17 @@ This Service assumes that you have accept and follow the Terms and Conditions al
 - https://hypixel.net/privacy
 
 The following may be collected when You run a command or thereby use the Services that this bot provides:
-  - Username
-  - Server configuration
-    - This includes but is not limited to the name and Id
   - Channel configuration
     - This includes but is not limited to permissions
+  - Server configuration
+    - This includes but is not limited to the name and Id
+  - Username
 
 The following is not collected or stored knowingly:
-  - Roles
   - Guild members, excluding the total count and the member executing the command, if any
-  - Message
+  - Messages
+  - Guild member presences
+  - Roles
 
 ### Security
 
@@ -45,7 +46,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 I may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
 
-This policy is effective as of 2022-01-17
+This policy is not in effect
 
 ### Contact
 
