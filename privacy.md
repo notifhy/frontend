@@ -16,7 +16,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 ### Data Collected
 I do not sell or share your data for marketing purposes. I may provide data where required by law.
 
-This Service assumes that you have accept and follow the Terms and Conditions along with the Privacy Policy as given by the Hypixel Inc for their third-party services.
+This Service requires and assumes that you have accepted and follow the Terms and Conditions along with the Privacy Policy given by Hypixel Inc for their third-party services.
 
 - https://hypixel.net/terms
 - https://hypixel.net/privacy
