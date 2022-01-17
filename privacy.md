@@ -14,7 +14,7 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of these Terms and Conditions:
 
-*   **Application** means the software program provided by the Company downloaded by You on any electronic device, named NotifHy.
+*   **Application** means the software program provided by Me named NotifHy.
     
 *   **I** (also referred to as "Me") refers to Attituding.
     
@@ -23,7 +23,7 @@ For the purposes of these Terms and Conditions:
 *   **You** means the individual accessing or using the Service, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 ### Data Collected
-Information including but not limited to the following may be collected when You run a command or thereby use the Services that this bot provides:
+Information including but not limited to the following may be collected when You run a command or thereby use the Services that this Application provides:
   - Channel configuration
     - This includes but is not limited to permissions
   - Server configuration
