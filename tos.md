@@ -1,4 +1,4 @@
 ---
 permalink: /tos/
 ---
-## TOS
+# Terms of Service
