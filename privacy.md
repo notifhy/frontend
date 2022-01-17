@@ -6,7 +6,7 @@ permalink: /privacy/
 # Privacy Policy - January 17th, 2022
 The following applies to the Discord Bot NotifHy and resources operated by Attituding for the purposes of operating NotifHy.
 
-If you choose to use or continue use of my service, you agree to the collection and use of information in relation to this policy. The information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. I do not sell or share your data for marketing purposes. I may provide data when required by law.
+If you choose to use or continue use of my service, you agree to the collection and use of information in relation to this policy. The information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. I do not sell or share your data for marketing purposes. I may provide data to entities when required by law.
 
 ### Interpretation and Definitions
 
