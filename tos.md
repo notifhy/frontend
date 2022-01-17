@@ -1,7 +1,7 @@
 ---
 permalink: /tos/
 ---
-# Terms of Service
+# Terms of Service - January 17th, 2022
 
 Please read these terms and conditions carefully before using Our Service.
 
