@@ -1,4 +1,7 @@
+---
+title: Test
 layout: page
-title: "Privacy Policy"
+description: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!
 permalink: /privacy/
+---
 ## HELLO WORLD
