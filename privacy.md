@@ -1,5 +1,5 @@
 layout: page
-title: "Privayc Policy
+title: "Privacy Policy"
 permalink: /privacy/
 
 ##HELLO WORLD
