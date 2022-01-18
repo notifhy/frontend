@@ -11,7 +11,7 @@ If you choose to use or continue use of my service, you agree to the collection 
 
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-For the purposes of these Terms and Conditions:
+For the purposes of this Privacy Policy:
 
 *   **Application** means the software program provided by Attituding named NotifHy.
     
