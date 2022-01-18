@@ -1,6 +1,5 @@
 ---
 title: Privacy Policy
-description: "TEST"
 permalink: /privacy/
 ---
 # Privacy Policy - January 17th, 2022
