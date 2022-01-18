@@ -1,4 +1,5 @@
 ---
+title: Terms of Service
 permalink: /tos/
 ---
 # Terms of Service - January 17th, 2022
