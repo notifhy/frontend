@@ -59,9 +59,7 @@ Other potentially identifiable or sensitive information including the following 
 This data is used for the following functions:
   - Sending notifications to you
     - The data is compared to the last API check and provides notificatiosn accordingly
-  - Logging for the purpose of debugging errors or removing malicious users
-    - 
-    
+  - Logging for the purpose of debugging errors or removing malicious users from using this Application
 
 ### Security
 I value your trust in providing your information and as such, I strive to use commercially acceptable means of protecting it. However, no method of transmission over the internet or method of electronic storage is 100% secure and reliable, so I cannot guarantee its absolute security.
