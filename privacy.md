@@ -22,19 +22,46 @@ For the purposes of these Terms and Conditions:
     
 *   **You** means the individual accessing or using the Service, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
-### Data Collected
-Information including but not limited to the following may be collected when You run a command or thereby use the Services that this Application provides:
-  - Channel configuration
-    - This includes but is not limited to permissions
-  - Server configuration
-    - This includes but is not limited to the name, Id, owner name, and owner Id.
+### Data Collection
+I aim to inform this Application's users of what data this Service uses and/or collects. This data may be Personal Data or Non-Personal Data.
+
+The following may be collected when You run a command for the purposes of logging as described below:
+  - Server information
+    - Server Id
+    - Server name
+    - Owner Id
+    - Owner name
+    - Member count
   - Username
 
-Other potentially identifiable information including the following are not intentionally collected or knowingly stored:
-  - Guild members, excluding the total count and the member executing the command, if any
-  - Messages
+The following are collected when you use the notification function that this Application provides:
+  - Hypixel
+    - Game type
+    - Game mode
+    - Game map
+    - Language
+    - Last reward claimed
+    - Last login
+    - Last logout
+    - Minecraft version
+    - Online status
+    - Reward streak
+    - Total daily rewards
+    - Total rewards
+
+Other potentially identifiable or sensitive information including the following are not intentionally collected or knowingly stored:
   - Guild member presences
+  - Guild members, excluding the executor of a command, if any
+  - Messages not sent by the Application
   - Roles
+
+### Data Usage
+This data is used for the following functions:
+  - Sending notifications to you
+    - The data is compared to the last API check and provides notificatiosn accordingly
+  - Logging for the purpose of debugging errors or removing malicious users
+    - 
+    
 
 ### Security
 I value your trust in providing your information and as such, I strive to use commercially acceptable means of protecting it. However, no method of transmission over the internet or method of electronic storage is 100% secure and reliable, so I cannot guarantee its absolute security.
@@ -46,7 +73,7 @@ This Service may contain links to other sites. If You click on a third-party lin
 This service is not targeted or aimed at children and does not knowingly collect data from children. If a parent or guardian believes that their child may be giving personal information, they are encouraged to reach out to Me.
 
 ### Changes to This Privacy Policy
-I may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
+I may update the Privacy Policy from time to time. You are advised to review this page periodically for any changes. Reasonable measures will be taken to ensure users are aware of updates to the Privacy Policy. By using this Application, you agree to the current revision of the Privacy Policy.
 
 This policy is not in effect.
 
