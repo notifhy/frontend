@@ -2,7 +2,7 @@
 title: Terms of Service
 permalink: /tos/
 ---
-# Terms of Service - January 17th, 2022
+# Terms of Service - January 25th, 2022
 These Terms of Service explain the limitations and guidelines for your use of this application.
 
 Topics:
