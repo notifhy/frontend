@@ -41,7 +41,7 @@ We may immediately terminate or suspend your usage of this Application for any r
 Our Privacy Policy explains how we use the personal data we collect from you when you use our application. By agreeing to these Terms of Service, you also agree to our Privacy Policy.
 
 ## Third-Party Terms of Service
-Our application contains links to other websites. Our Terms of Service only applies to our website, so if you click on a link to another website, you should read their Terms of Service.
+Our application contains links to other websites. Our Terms of Service only applies to our application, so if you click on a link to another website or application, you should read their Terms of Service.
 
 ## Changes to Our Terms of Service
 We may update our Terms of Service from time to time. Thus, we advise you to review this page periodically for any changes. we will notify you of any changes by posting the new Terms of Service on this page. These changes are effective immediately, after they are posted on this page.

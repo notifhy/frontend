@@ -93,7 +93,7 @@ This application stores data on a personal home server in Canada. Data is passwo
 Data is kept until it is no longer necessary for the usage described above.
 
 ## Children's Privacy
-This service is not targeted or aimed at children and does not knowingly collect data from children. If a parent or guardian believes that their child may be giving personal information, they are encouraged to reach out to Me.
+This service is not targeted or aimed at children and does not knowingly collect data from children. If a parent or guardian believes that their child may be giving personal information, they are encouraged to reach out.
 
 ## What Are Your Data Protection Rights?
 We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
@@ -113,7 +113,7 @@ We would like to make sure you are fully aware of all of your data protection ri
 If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at the email listed in the contact information below.
 
 ## Third-Party Privacy Policies
-Our application contains links to other websites. Our Privacy Policy only applies to our website, so if you click on a link to another website, you should read their Privacy Policy.
+Our application contains links to other websites. Our Privacy Policy only applies to our application, so if you click on a link to another website or application, you should read their Privacy Policy.
 
 ## Changes to Our Privacy Policy
 We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. we will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
