@@ -1,0 +1,15 @@
+# ignore all logs
+**/logs
+
+# ignore the database
+**.db
+**.db-journal
+
+# ignore files with secrets
+config.json
+
+# ignore compiled js
+**.js
+
+# ignore node modukes
+**/node_modules

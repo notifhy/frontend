@@ -3,78 +3,118 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 # Privacy Policy - January 17th, 2022
-The following applies to the Discord Bot NotifHy and resources operated by Attituding for the purposes of operating NotifHy.
+This privacy policy will explain how We use the personal data We collect from You when You use our Application.
 
-If you choose to use or continue use of my service, you agree to the collection and use of information in relation to this policy. The information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. I do not sell or share your data for marketing purposes. I may provide data to entities when required by law.
+Topics:
+ - Interpretation and Definitions
+ - What data do We collect?
+ - How do We collect your data?
+ - How will We use your data?
+ - How do We store your data?
+ - Privacy policies of other websites
+ - Children's Privacy
+ - What are your data protection rights?
+ - Changes to our privacy policy
+ - How to contact Us
 
-### Interpretation and Definitions
+## Interpretation and Definitions
 
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
 For the purposes of this Privacy Policy:
 
-*   **Application** means the software program provided by Attituding named NotifHy.
+*   **Application** means the software program provided by Us named NotifHy and the resources operated by Attituding for the purposes of operating NotifHy.
     
-*   **I** (also referred to as "Me") refers to Attituding.
+*   **We** (also referred to as **Us**) refers to the operators of this Application.
     
-*   **Service** refers to the Application.
-    
-*   **You** means the individual accessing or using the Service, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+*   **You** means the individual accessing or using the Application, or other legal entity on behalf of which such individual is accessing or using the Application, as applicable.
 
-### Data Collection
-I aim to inform this Application's users of what data this Service uses and/or collects. This data may be Personal Data or Non-Personal Data.
-
-The following may be collected when You run a command for the purposes of logging as described below:
+## What data do We collect?
+This Application collects the following:
+  - Channel information
+    - Channel Id
+    - Channel name
+    - Channel permissions
+    - Channel type
+  - Hypixel player data
+    - Hypixel game type
+    - Hypixel game mode
+    - Hypixel game map
+    - Hypixel language
+    - Hypixel last reward claimed
+    - Hypixel last login
+    - Hypixel last logout
+    - Hypixel Minecraft version
+    - Hypixel online status
+    - Hypixel reward streak
+    - Hypixel total daily rewards
+    - Hypixel total rewards
+  - Member information
+    - Member permissions
   - Server information
     - Server Id
+    - Server member count
     - Server name
-    - Owner Id
-    - Owner name
-    - Member count
-  - Username
+    - Server owner Id
+    - Server owner name
+    - Server permissions
+  - Timestamps
+  - User
+    - User discriminator
+    - User Id
+    - User name
 
-The following are collected when you use the notification function that this Application provides:
-  - Hypixel
-    - Game type
-    - Game mode
-    - Game map
-    - Language
-    - Last reward claimed
-    - Last login
-    - Last logout
-    - Minecraft version
-    - Online status
-    - Reward streak
-    - Total daily rewards
-    - Total rewards
+## How do We collect your data?
+This Application collects data when You:
 
-Other potentially identifiable or sensitive information including the following are not intentionally collected or knowingly stored:
-  - Guild member presences
-  - Guild members, excluding the executor of a command, if any
-  - Messages not sent by the Application
-  - Roles
+ - Run a command through Discord Inc.'s slash command system
+ - Utilise the notification function via /nodules that this Application provides
 
-### Data Usage
-This data is used for the following functions:
-  - Sending notifications to you
-    - The data is compared to the last API check and provides notificatiosn accordingly
-  - Logging for the purpose of debugging errors or removing malicious users from using this Application
+You also directly provide this Application data when You:
+ - Provide feedback, such as through a survey or other means
 
-### Security
-I value your trust in providing your information and as such, I strive to use commercially acceptable means of protecting it. However, no method of transmission over the internet or method of electronic storage is 100% secure and reliable, so I cannot guarantee its absolute security.
+## How will We use your data?
+This Application collects and processes your data for:
 
-### Links to Other Sites
-This Service may contain links to other sites. If You click on a third-party link, You will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise You to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+ - Monitoring
+   - Check how often a command or commands are used
+   - Check the health of the Application, such as errors and their cause
+ - Managing your settings for the Services this Application provides
+ - Operating the notification service this Application provides
+   - This involves comparing relevant data to determine whether a notification should be sent
 
-### Children's Privacy
+## How do We store your data?
+This Application stores data in a personal home server in Canada. Data is password protected and is not reachable by others outside of those who operate this Application.
+
+Data is kept until it is no longer necessary for the usage described above.
+
+## Privacy policies of other websites
+The Our Company website contains links to other websites. Our privacy policy applies only to our website, so if You click on a link to another website, You should read their privacy policy.
+
+## Children's Privacy
 This service is not targeted or aimed at children and does not knowingly collect data from children. If a parent or guardian believes that their child may be giving personal information, they are encouraged to reach out to Me.
 
-### Changes to This Privacy Policy
-I may update the Privacy Policy from time to time. You are advised to review this page periodically for any changes. Reasonable measures will be taken to ensure users are aware of updates to the Privacy Policy. By using this Application, you agree to the current revision of the Privacy Policy.
+## What are your data protection rights?
+We would like to make sure You are fully aware of all of your data protection rights. Every user is entitled to the following:
+
+ - The right to access – You have the right to request Us for copies of your personal data. We may charge You a small fee for this service.
+
+ - The right to rectification – You have the right to request that Us correct any information You believe is inaccurate. You also have the right to request Us to complete the information You believe is incomplete.
+
+ - The right to erasure – You have the right to request that Us erase your personal data, under certain conditions.
+
+ - The right to restrict processing – You have the right to request that Us restrict the processing of your personal data, under certain conditions.
+
+ - The right to object to processing – You have the right to object to this Application’s processing of your personal data, under certain conditions.
+
+ - The right to data portability – You have the right to request that Us transfer the data that We have collected to another organization, or directly to You, under certain conditions.
+
+ - If You make a request, We have one month to respond to You. If You would like to exercise any of these rights, please contact Us at our email listed in the contact topic below.
+
+## Changes to our privacy policy
+We may update our Privacy Policy from time to time. Thus, We advise You to review this page periodically for any changes. We will notify You of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
 This policy is not in effect.
 
-### Contact
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact Me at attituding@outlook.com or by Attituding#6517 on Discord where possible.
-
-Parts of this privacy policy page were created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+## How to contact Us
+If You have any questions about this Application's privacy policy, the data We hold on You, or You would like to exercise one of your data protection rights, please do not hesitate to contact Us at attituding@outlook.com or by Attituding#6517 on Discord where possible.
