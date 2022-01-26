@@ -7,15 +7,15 @@ This Privacy Policy explains how we use the personal data we collect from you wh
 
 Topics:
  - Definitions
- - What data do we collect?
- - How do we collect your data?
- - How will we use your data?
- - How do we store your data?
- - Children's privacy
- - What are your data protection rights?
+ - What Data Do We Collect?
+ - How Do We Collect Your Data?
+ - How Will We Use Your Data?
+ - How Do We Store Your Data?
+ - Children's Privacy
+ - What Are Your Data Protection Rights?
  - Third-Party Privacy Policies
- - Changes to our Privacy Policy
- - How to contact us
+ - Changes to Our Privacy Policy
+ - How to Contact Us
 
 ## Definitions
 These definitions apply regardless of capitalization or quantity.
@@ -24,7 +24,7 @@ These definitions apply regardless of capitalization or quantity.
  - **Service** refers to the purposes or functions that the application offers or can be used for
  - **You** (also referred to as "your") refers to the individual or legal entity accessing this application
 
-## What data do we collect?
+## What Data Do We Collect?
 This application collects the following:
   - Channel information
     - Channel Id
@@ -61,7 +61,7 @@ This application collects the following:
     - User Id
     - User name
 
-## How do we collect your data?
+## How Do We Collect Your Data?
 This application collects data when you:
 
  - Invite this application to a server
@@ -71,7 +71,7 @@ This application collects data when you:
 You also directly provide this application data when you:
  - Provide feedback, such as through a survey or other means
 
-## How will we use your data?
+## How Will We Use Your Data?
 This application collects and processes your data for:
 
  - Monitoring
@@ -87,15 +87,15 @@ This application collects and processes your data for:
  - Operating the notification service this application provides
    - This involves comparing relevant data to determine whether a notification should be sent
 
-## How do we store your data?
+## How Do We Store Your Data?
 This application stores data on a personal home server in Canada. Data is password-protected and is not intended to be reachable by others outside of those who operate this application.
 
 Data is kept until it is no longer necessary for the usage described above.
 
-## Children's privacy
+## Children's Privacy
 This service is not targeted or aimed at children and does not knowingly collect data from children. If a parent or guardian believes that their child may be giving personal information, they are encouraged to reach out to Me.
 
-## What are your data protection rights?
+## What Are Your Data Protection Rights?
 We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
  - The right to access – You have the right to request us for copies of your personal data. we may charge you a small fee for this service.
@@ -115,10 +115,10 @@ If you make a request, we have one month to respond to you. If you would like to
 ## Third-Party Privacy Policies
 Our application contains links to other websites. Our Privacy Policy only applies to our website, so if you click on a link to another website, you should read their Privacy Policy.
 
-## Changes to our Privacy Policy
+## Changes to Our Privacy Policy
 We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. we will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
 This policy is not in effect.
 
-## How to contact us
+## How to Contact Us
 If you have any questions about this application's Privacy Policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us at attituding@outlook.com or by Attituding#6517 on Discord where possible.
