@@ -55,7 +55,7 @@ This application collects the following:
     - Server permissions
   - Slash command arguments
   - Timestamps
-    - This can be a Unix timestamp, a [ISO8601 date](https://www.loc.gov/standards/datetime/iso-tc154-wg5_n0038_iso_wd_8601-1_2016-02-16.pdf), or similar
+    - This can be a Unix timestamp, a [ISO8601 date](https://www.loc.gov/standards/datetime/iso-tc154-wg5_n0038_iso_wd_8601-1_2016-02-16.pdf "ISO8601 date"), or similar
   - User
     - User discriminator
     - User Id
@@ -70,6 +70,7 @@ This application collects data when you:
 
 You also directly provide this application data when you:
  - Provide feedback, such as through a survey or other means
+ - Provide slash command arguments
 
 ## How Will We Use Your Data?
 This application collects and processes your data for:
@@ -89,6 +90,8 @@ This application collects and processes your data for:
 
 ## How Do We Store Your Data?
 This application stores data on a personal home server in Canada. Data is password-protected and is not intended to be reachable by others outside of those who operate this application.
+
+Backups are encrypted and stored through cloud storage providers like Google Cloud or Microsoft OneDrive.
 
 Data is kept until it is no longer necessary for the usage described above.
 
