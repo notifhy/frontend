@@ -2,7 +2,7 @@
 title: Privacy Policy
 permalink: /privacy/
 ---
-# Privacy Policy - January 17th, 2022
+# Privacy Policy - January 25th, 2022
 This privacy policy will explain how We use the personal data We collect from You when You use our Application.
 
 Topics:
@@ -91,7 +91,7 @@ Data is kept until it is no longer necessary for the usage described above.
 ## Privacy policies of other websites
 The Our Company website contains links to other websites. Our privacy policy applies only to our website, so if You click on a link to another website, You should read their privacy policy.
 
-## Children's Privacy
+## Children's privacy
 This service is not targeted or aimed at children and does not knowingly collect data from children. If a parent or guardian believes that their child may be giving personal information, they are encouraged to reach out to Me.
 
 ## What are your data protection rights?
