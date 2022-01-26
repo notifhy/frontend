@@ -84,6 +84,8 @@ This application collects and processes your data for:
      - This is used to determine whether a command should be improved or expanded. If a command is under utilized, this may mean a command is not user friendly
    - Checking how long a command is used for
      - Understanding how long commands like /modules are used for gives insight into whether users can easily understand how to use or operate a command
+   - Checking member counts
+     - This is helpful for eliminating servers that have the same owner and otherwise reducing "suspicious growth"
  - Managing your settings for the services this application provides
  - Operating the notification service this application provides
    - This involves comparing relevant data to determine whether a notification should be sent
