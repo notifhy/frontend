@@ -3,7 +3,7 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 # Privacy Policy - January 25th, 2022
-This Privacy Policy explains how we use the personal data we collect from you when you use our application.
+This Privacy Policy explains how we use and collect your the personal data when you use our application.
 
 Topics:
  - Definitions
@@ -11,16 +11,16 @@ Topics:
  - How Do We Collect Your Data?
  - How Will We Use Your Data?
  - How Do We Store Your Data?
- - Children's Privacy
+ - What Is Our Child Privacy Policy?
  - What Are Your Data Protection Rights?
  - Third-Party Privacy Policies
  - Changes to Our Privacy Policy
- - How to Contact Us
+ - Contact Us
 
 ## Definitions
 These definitions apply regardless of capitalization or quantity.
  - **Application** refers to NotifHy and the resources that are intellectual property of its operators for the purposes of operating NotifHy
- - **Company** (also referred to as "us", "we", "our") refers to Attituding and/or the other administrators, if any
+ - **Company** (also referred to as "us", "we", "our") refers to Attituding and the other administrators, if any
  - **Service** refers to the purposes or functions that the application offers or can be used for
  - **You** (also referred to as "your") refers to the individual or legal entity accessing this application
 
@@ -92,9 +92,6 @@ This application stores data on a personal home server in Canada. Data is passwo
 
 Data is kept until it is no longer necessary for the usage described above.
 
-## Children's Privacy
-This service is not targeted or aimed at children and does not knowingly collect data from children. If a parent or guardian believes that their child may be giving personal information, they are encouraged to reach out.
-
 ## What Are Your Data Protection Rights?
 We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
@@ -112,6 +109,9 @@ We would like to make sure you are fully aware of all of your data protection ri
 
 If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at the email listed in the contact information below.
 
+## What Is Our Child Privacy Policy?
+This service is not targeted or aimed at children and does not knowingly collect data from children. If a parent or guardian believes that their child may be giving personal information, they are encouraged to reach out.
+
 ## Third-Party Privacy Policies
 Our application contains links to other websites. Our Privacy Policy only applies to our application, so if you click on a link to another website or application, you should read their Privacy Policy.
 
@@ -120,5 +120,5 @@ We may update our Privacy Policy from time to time. Thus, we advise you to revie
 
 This policy is not in effect.
 
-## How to Contact Us
+## Contact Us
 If you have any questions about this application's Privacy Policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us at attituding@outlook.com or by Attituding#6517 on Discord where possible.

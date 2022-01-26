@@ -7,22 +7,22 @@ These Terms of Service explain the limitations and guidelines for your use of th
 
 Topics:
  - Definitions
- - Terms of Use
- - Terms of Indemnification
- - Terms of Termination
+ - What Are Our Terms of Use?
+ - What Are Our Terms of Indemnification?
+ - What Are Our Terms of Termination?
  - Acceptance of Our Privacy Policy
  - Third-Party Terms of Services
  - Changes to Our Terms of Service
- - How to Contact Us
+ - Contact Us
 
 ## Definitions
 These definitions apply regardless of capitalization or quantity.
  - **Application** refers to NotifHy and the resources that are intellectual property of its operators for the purposes of operating NotifHy
- - **Company** (also referred to as "us", "we", "our") refers to Attituding and/or the other administrators, if any
+ - **Company** (also referred to as "us", "we", "our") refers to Attituding and the other administrators, if any
  - **Service** refers to the purposes or functions that the application offers or can be used for
  - **You** (also referred to as "your") refers to the individual or legal entity accessing this application
 
-## Terms of Use
+## What Are Our Terms of Use?
 You agree and confirm that you:
  - Are older than 13 years old
  - Are responsible for ensuring you do not breach the laws of your jurisdiction in the context of using this application's services
@@ -31,11 +31,11 @@ You agree and confirm that you:
  - Will not use this application in a way that spams or causes excessive API requests to or from this application
 
 
-## Terms of Indemnification
-This application and its services is provided to your "AS IS" and "AS AVAILABLE" with no warranty regarding any faults or issues. Under no circumstance will we be liable for any loss or damage of any kind incurred as a result of the use of the application.
+## What Are Our Terms of Indemnification?
+This application and its services is provided to your "AS IS" and "AS AVAILABLE" with no warranty regarding any faults or issues. Under no circumstance will we be liable for any loss or damage of any kind incurred as a result of the use of this application.
 
-## Terms of Termination
-We may immediately terminate or suspend your usage of this Application for any reason at any time.
+## What Are Our Terms of Termination?
+We may immediately terminate or suspend your usage of this application for any reason at any time, including but not limited to breaches of these Terms of Service.
 
 ## Acceptance of Our Privacy Policy
 Our Privacy Policy explains how we use the personal data we collect from you when you use our application. By agreeing to these Terms of Service, you also agree to our Privacy Policy.
@@ -48,5 +48,5 @@ We may update our Terms of Service from time to time. Thus, we advise you to rev
 
 This policy is not in effect.
 
-## How to Contact Us
+## Contact Us
 If you have any questions about this application's Terms of Service, please do not hesitate to contact us at attituding@outlook.com or by Attituding#6517 on Discord where possible.
