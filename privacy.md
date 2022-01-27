@@ -31,6 +31,9 @@ This application collects the following:
     - Channel name
     - Channel permissions
     - Channel type
+  - Configuration
+    - Module settings
+    - Minecraft UUID
   - Hypixel player data
     - Hypixel game type
     - Hypixel game mode
@@ -66,11 +69,13 @@ This application collects data when you:
 
  - Invite this application to a server
  - Run a slash command
+ - Use /register, which can convert a Minecraft username into a v4 UUID
  - Utilise the notification function via /modules that this application provides
 
 You also directly provide this application data when you:
  - Provide feedback, such as through a survey or other means
  - Provide slash command arguments
+ - Provide data for settings through buttons or select menus
 
 ## How Will We Use Your Data?
 This application collects and processes your data for:
@@ -87,6 +92,7 @@ This application collects and processes your data for:
    - Checking member counts
      - This is helpful for eliminating servers that have the same owner and otherwise reducing "suspicious growth"
  - Managing your settings for the services this application provides
+   - This includes module settings (i.e. login/logout channel Id) and your Minecraft UUID
  - Operating the notification service this application provides
    - This involves comparing relevant data to determine whether a notification should be sent
 
