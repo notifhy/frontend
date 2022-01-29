@@ -97,9 +97,11 @@ This application collects and processes your data for:
    - This involves comparing relevant data to determine whether a notification should be sent
 
 ## How Do We Store Your Data?
-This application stores data on a personal home server in Canada. Data is password-protected and is not intended to be reachable by others outside of those who operate this application.
+This application stores data on a personal home server in Canada. Data is stored in an encrypted database, which is stored on a password and BitLocker protected computer. Data is not intended to be reachable by others outside of those who operate this application.
 
-Backups are encrypted and stored through cloud storage providers like Google Cloud or Microsoft OneDrive.
+Backups, which consist of the encrypted database, are stored through Google Drive. These backups occur roughly every 30 minutes.
+
+While we strive for the best security possible, absolute protection cannot be guaranteed. As stated in our Terms of Service, we are not liable for damages.
 
 Data is kept until it is no longer necessary for the usage described above.
 
