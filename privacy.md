@@ -2,7 +2,7 @@
 title: Privacy Policy
 permalink: /privacy/
 ---
-# Privacy Policy - January 25th, 2022
+# Privacy Policy - January 31st, 2022
 This Privacy Policy explains how we use and collect your the personal data when you use our application.
 
 Topics:
@@ -19,50 +19,18 @@ Topics:
 
 ## Definitions
 These definitions apply regardless of capitalization or quantity.
- - **Application** refers to NotifHy and the resources that are intellectual property of its operators for the purposes of operating NotifHy
+ - **Application** refers to NotifHy and the resources that are the intellectual property of its operators for the purposes of operating NotifHy
  - **Company** (also referred to as "us", "we", "our") refers to Attituding and the other administrators, if any
- - **Service** refers to the purposes or functions that the application offers or can be used for
+ - **Service** refers to the purposes or functions that the application offers
  - **You** (also referred to as "your") refers to the individual or legal entity accessing this application
 
 ## What Data Do We Collect?
 This application collects the following:
-  - Channel information
-    - Channel Id
-    - Channel name
-    - Channel permissions
-    - Channel type
-  - Configuration
-    - Module settings
-    - Minecraft UUID
-  - Hypixel player data
-    - Hypixel game type
-    - Hypixel game mode
-    - Hypixel game map
-    - Hypixel language
-    - Hypixel last reward claimed
-    - Hypixel last login
-    - Hypixel last logout
-    - Hypixel Minecraft version
-    - Hypixel online status
-    - Hypixel reward streak
-    - Hypixel total daily rewards
-    - Hypixel total rewards
-  - Member information
-    - Member permissions
-  - Server information
-    - Server Id
-    - Server member count
-    - Server name
-    - Server owner Id
-    - Server owner name
-    - Server permissions
-  - Slash command arguments
-  - Timestamps
-    - This can be a Unix timestamp, a [ISO8601 date](https://www.loc.gov/standards/datetime/iso-tc154-wg5_n0038_iso_wd_8601-1_2016-02-16.pdf "ISO8601 date"), or similar
-  - User
-    - User discriminator
-    - User Id
-    - User name
+  - Configuration, which consists of data from buttons, select menus, and slash commands, such as true/false values, numbers, letters, Minecraft UUID, and other parameters directly provided by you 
+  - Hypixel player data, which consists of your game type, game mode, game map, language, last reward claimed, last login, last logout, Minecraft version, online status, reward streak, total daily rewards and your total rewards
+  - Server information, which consists of the bot permissions, channel Id, channel name, channel type, Id, member count, name, owner Id, and owner name
+  - Slash command arguments, which are defined as any data provided through a slash command
+  - User data, which consists of your discriminator, Id, server permissions, and user name
 
 ## How Do We Collect Your Data?
 This application collects data when you:
@@ -75,31 +43,25 @@ This application collects data when you:
 You also directly provide this application data when you:
  - Provide feedback, such as through a survey or other means
  - Provide slash command arguments
- - Provide data for settings through buttons or select menus
+ - Provide data for settings through buttons, select menus, or other interfaces
 
 ## How Will We Use Your Data?
 This application collects and processes your data for:
 
  - Monitoring
-   - Check the health of the application, such as errors and their cause
-     - In order to eliminate bugs and investigate errors, data is helpful to pinpoint where and why something unexpected happened
-     - If a command is taking an unexpected amount of time, it would be helpful to know what arguments were passed
+   - Check the health of the application, such as errors, bugs and their cause. If a command stopped or encountered an error during its usage, the arguments passed would be helpful in debugging
  - Analytics
-   - Checking how often a command or commands are used
-     - This is used to determine whether a command should be improved or expanded. If a command is under utilized, this may mean a command is not user friendly
-   - Checking how long a command is used for
-     - Understanding how long commands like /modules are used for gives insight into whether users can easily understand how to use or operate a command
-   - Checking member counts
-     - This is helpful for eliminating servers that have the same owner and otherwise reducing "suspicious growth"
+   - Checking member counts would be helpful for eliminating servers that have the same owner and otherwise reducing "suspicious growth"
+   - User and server information may be used to determine if one is misusing the application, as per our Terms of Service
  - Managing your settings for the services this application provides
    - This includes module settings (i.e. login/logout channel Id) and your Minecraft UUID
  - Operating the notification service this application provides
-   - This involves comparing relevant data to determine whether a notification should be sent
+   - This involves comparing relevant data, such as your last logins, to determine whether a notification should be sent
 
 ## How Do We Store Your Data?
 This application stores data on a personal home server in Canada. Data is stored in an encrypted database, which is stored on a password and BitLocker protected computer. Data is not intended to be reachable by others outside of those who operate this application.
 
-Backups, which consist of the encrypted database, are stored through Google Drive. These backups occur roughly every 30 minutes.
+Backups, which consist of the encrypted database, are stored through Google Drive. These backups occur roughly every 30 minutes. These backups are kept for up to 2 months.
 
 While we strive for the best security possible, absolute protection cannot be guaranteed. As stated in our Terms of Service, we are not liable for damages.
 
