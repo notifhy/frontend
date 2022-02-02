@@ -58,6 +58,8 @@ This application collects and processes your data for:
  - Operating the notification service this application provides
    - This involves comparing relevant data, such as your last logins, to determine whether a notification should be sent
 
+**We do not sell or market your data.**
+
 ## How Do We Store Your Data?
 This application stores data on a personal home server in Canada. Data is stored in an encrypted database, which is stored on a password protected computer. Data is not intended to be reachable by others outside of those who operate this application.
 
