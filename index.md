@@ -1,4 +1,4 @@
-![](https://i.imgur.com/lBiK4iA.png)
+![](https://i.imgur.com/XI0rI4Y.png)
 
 # [Trailer](https://youtu.be/gTpecimtHZw "Trailer")
 
