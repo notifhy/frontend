@@ -14,9 +14,9 @@ Modules are how different features are separated. Once you register, simply sele
 ## Setup
  - Invite the bot by clicking [here](https://discord.com/api/oauth2/authorize?client_id=841021942249422868&permissions=18432&scope=bot%20applications.commands "Invite") and granting the OAuth2 scopes
  - Use **/register** followed by your username or UUID
-   - **/discord** on Hypixel may be required to link or relink your Discord accoutn to your Minecraft account
+   - Using **/discord** on Hypixel may be required to link or relink your Discord accoutn to your Minecraft account
  - Use **/modules** followed by the module you are interested in
-   - Configure the module by clicking on the select menu. The **Toggle** setting will tell you what settings need to be configured before you can enable the module
+   - Configure the module by clicking on the select menus. The **Toggle** setting will tell you what settings need to be configured before you can enable the module
    - **/channel** may be requires for some modules to tell the bot where you want alerts/notifications to go
 
 ## Other Information
@@ -28,7 +28,7 @@ Modules are how different features are separated. Once you register, simply sele
  - Use **/help** to get basic information or information about the available commands
 
 ## Legal
-By using this service, you agree to the [Privacy Policy](https://attituding.github.io/NotifHy/privacy/ "Privacy Policy") and our [Terms of Service](https://attituding.github.io/NotifHy/tos/ "Terms of Service").
+By using this service, you agree to our [Privacy Policy](https://attituding.github.io/NotifHy/privacy/ "Privacy Policy") and our [Terms of Service](https://attituding.github.io/NotifHy/tos/ "Terms of Service").
 
 ## Contact
 Contact Attituding at attituding@outlook.com or Attituding#6517 on Discord for assistance, bug reports, or suggestions.
