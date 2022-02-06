@@ -14,7 +14,7 @@ Modules are how different features are separated. Once you register, simply sele
 ## Setup
  - Invite the bot by clicking [here](https://discord.com/api/oauth2/authorize?client_id=841021942249422868&permissions=18432&scope=bot%20applications.commands "Invite") and granting the OAuth2 scopes
  - Use **/register** followed by your username or UUID
-   - Using **/discord** on Hypixel may be required to link or relink your Discord accoutn to your Minecraft account
+   - Using **/discord** on Hypixel may be required to link or relink your Discord account to your Minecraft account
  - Use **/modules** followed by the module you are interested in
    - Configure the module by clicking on the select menus. The **Toggle** setting will tell you what settings need to be configured before you can enable the module
    - **/channel** may be requires for some modules to tell the bot where you want alerts/notifications to go
