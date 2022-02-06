@@ -2,7 +2,7 @@
 title: Privacy Policy
 permalink: /privacy/
 ---
-# Privacy Policy - January 31st, 2022
+# Privacy Policy - February 13th, 2022
 This Privacy Policy explains how we use and collect your the personal data when you use our application.
 
 Topics:
@@ -61,18 +61,18 @@ This application collects and processes your data for:
 **We do not sell or market your data.**
 
 ## How Do We Store Your Data?
-This application stores data on a personal home server in Canada. Data is stored in an encrypted database, which is stored on a password protected computer. Data is not intended to be reachable by others outside of those who operate this application.
+This application stores data on a personal home server in Canada. Data is stored in an encrypted database, which is stored on a password protected computer. Data should not be reachable by others outside of those who operate this application.
 
-Backups, which consist of the encrypted database, are stored through Google Drive. These backups occur roughly every 30 minutes. These backups are kept for up to 2 months.
+Backups, which consist of the encrypted database, are stored through Google Drive. These backups occur roughly every 30 minutes, although this is subject to change without notice. These backups are kept indefinitely until no longer needed.
 
 While we strive for the best security possible, absolute protection cannot be guaranteed. As stated in our Terms of Service, we are not liable for damages.
 
-Data is kept until it is no longer necessary for the usage described above.
+Data is kept until it is no longer necessary for the usages described above.
 
 ## What Are Your Data Protection Rights?
 We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
- - The right to access – You have the right to request us for copies of your personal data. we may charge you a small fee for this service.
+ - The right to access – You have the right to request us for copies of your personal data. We may charge you a small fee for this service.
 
  - The right to rectification – You have the right to request that us correct any information you believe is inaccurate. You also have the right to request us to complete the information you believe is incomplete.
 
@@ -93,9 +93,9 @@ This service is not targeted or aimed at children and does not knowingly collect
 Our application contains links to other websites. Our Privacy Policy only applies to our application, so if you click on a link to another website or application, you should read their Privacy Policy.
 
 ## Changes to Our Privacy Policy
-We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. we will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
-This policy is not in effect.
+This policy is effective as of February 13th, 2022.
 
 ## Contact Us
-If you have any questions about this application's Privacy Policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us at attituding@outlook.com or by Attituding#6517 on Discord where possible.
+If you have any questions about this application's Privacy Policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us at attituding@outlook.com.

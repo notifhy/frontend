@@ -2,7 +2,7 @@
 title: Terms of Service
 permalink: /tos/
 ---
-# Terms of Service - January 25th, 2022
+# Terms of Service - February 13th, 2022
 These Terms of Service explain the limitations and guidelines for your use of this application.
 
 Topics:
@@ -46,7 +46,7 @@ Our application contains links to other websites. Our Terms of Service only appl
 ## Changes to Our Terms of Service
 We may update our Terms of Service from time to time. Thus, we advise you to review this page periodically for any changes. we will notify you of any changes by posting the new Terms of Service on this page. These changes are effective immediately, after they are posted on this page.
 
-This policy is not in effect.
+These Terms of Service are effective as of February 13th, 2022.
 
 ## Contact Us
-If you have any questions about this application's Terms of Service, please do not hesitate to contact us at attituding@outlook.com or by Attituding#6517 on Discord where possible.
+If you have any questions about this application's Terms of Service, please do not hesitate to contact us at attituding@outlook.com.
