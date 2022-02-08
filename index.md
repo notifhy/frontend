@@ -4,13 +4,13 @@
 NotifHy is a bot focused on alerts and notifications for the Hypixel server. Share logins with friends, get reminders when you are about to lose your daily reward streak, and get alerts on suspicious activity. This bot is the successor to HyGuard, which you can read about [here](https://hypixel.net/threads/discord-bot-hyguard-a-bot-that-monitors-your-account-24-7.4368395/ "Hypixel Forums").
 
 ## Modules
-Modules are how different features are separated. Once you register, simply select and configure the modules you want to use.
+Modules are how different types of notifications are separated. Once you register, simply select and configure the modules you want to use.
 - The Defender Module is an implementation of [HyGuard](https://hypixel.net/threads/discord-bot-hyguard-a-bot-that-monitors-your-account-24-7.4368395/ "Hypixel Forums")
 - The Friends Module sends your login and logouts to a channel to share
 - The Rewards Module sends you a DM reminding you to claim your daily reward
 
 ## Setup
- - Invite the bot by clicking [here](https://discord.com/api/oauth2/authorize?client_id=841021942249422868&permissions=18432&scope=bot%20applications.commands "Invite") and granting the OAuth2 scopes
+ - Invite the bot by clicking https://attituding.github.io/NotifHy/invite/ and granting the OAuth2 scopes
  - Use **/register** followed by your username or UUID
    - Using **/discord** on Hypixel may be required to link or relink your Discord account to your Minecraft account
  - Use **/modules** followed by the module you are interested in
