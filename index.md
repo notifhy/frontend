@@ -10,12 +10,12 @@ Modules are how different types of notifications are separated. Once you registe
 - The Rewards Module sends you a DM reminding you to claim your daily reward
 
 ## Setup
- - Invite the bot by clicking https://attituding.github.io/NotifHy/invite/ and granting the OAuth2 scopes
+ - Invite the bot by clicking [here](https://attituding.github.io/NotifHy/invite/ "Invite") and granting the OAuth2 scopes
  - Use **/register** followed by your username or UUID
    - Using **/discord** on Hypixel may be required to link or relink your Discord account to your Minecraft account
  - Use **/modules** followed by the module you are interested in
-   - Configure the module by clicking on the select menus. The **Toggle** setting will tell you what settings need to be configured before you can enable the module
-   - **/channel** may be requires for some modules to tell the bot where you want alerts/notifications to go
+   - Configure the module by clicking on the select menus and buttons. The **Toggle** setting will tell you what settings need to be configured before you can enable the module
+   - **/channel** may be required for some modules in order to tell the bot where you want alerts/notifications to go
 
 ## Other Information
  - View most of the data stored by the bot with **/data**
