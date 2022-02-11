@@ -2,7 +2,7 @@
 title: Terms of Service
 permalink: /tos/
 ---
-# Terms of Service - February 13th, 2022
+# Terms of Service - February 11th, 2022
 These Terms of Service explain the limitations and guidelines for your use of this application.
 
 Topics:
@@ -44,7 +44,7 @@ Our Privacy Policy explains how we use the personal data we collect from you whe
 Our application contains links to other websites. Our Terms of Service only applies to our application, so if you click on a link to another website or application, you should read their Terms of Service.
 
 ## Changes to Our Terms of Service
-We may update our Terms of Service from time to time. Thus, we advise you to review this page periodically for any changes. we will notify you of any changes by posting the new Terms of Service on this page. These changes are effective immediately, after they are posted on this page.
+We may update our Terms of Service from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Terms of Service on this page. These changes are effective immediately, after they are posted on this page.
 
 These Terms of Service are effective as of February 13th, 2022.
 

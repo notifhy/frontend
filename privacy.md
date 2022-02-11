@@ -2,7 +2,7 @@
 title: Privacy Policy
 permalink: /privacy/
 ---
-# Privacy Policy - February 13th, 2022
+# Privacy Policy - February 11th, 2022
 This Privacy Policy explains how we use and collect your the personal data when you use our application.
 
 Topics:
@@ -61,9 +61,9 @@ This application collects and processes your data for:
 **We do not sell or market your data.**
 
 ## How Do We Store Your Data?
-This application stores data on a personal home server in Canada. Data is stored in an encrypted database, which is stored on a password protected computer. Data should not be reachable by others outside of those who operate this application.
+This application stores data on a personal home server in Canada. User data is stored in an encrypted database, which is stored on a password protected computer. Data should not be reachable by others outside of those who operate this application.
 
-Backups, which consist of the encrypted database, are stored through Google Drive. These backups occur roughly every 30 minutes, although this is subject to change without notice. These backups are kept indefinitely until no longer needed.
+Backups, which consist of the encrypted database, are stored through Google Drive. These backups occur every hour, although this is subject to change without notice. These backups are kept indefinitely until no longer needed.
 
 While we strive for the best security possible, absolute protection cannot be guaranteed. As stated in our Terms of Service, we are not liable for damages.
 
