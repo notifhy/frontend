@@ -2,7 +2,7 @@
 title: Privacy Policy
 permalink: /privacy/
 ---
-# Privacy Policy - February 11th, 2022
+# Privacy Policy - February 17th, 2022
 This Privacy Policy explains how we use and collect your the personal data when you use our application.
 
 Topics:
@@ -94,8 +94,6 @@ Our application contains links to other websites. Our Privacy Policy only applie
 
 ## Changes to Our Privacy Policy
 We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
-
-This policy is effective as of February 13th, 2022.
 
 ## Contact Us
 If you have any questions about this application's Privacy Policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us at attituding@outlook.com.
