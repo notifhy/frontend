@@ -1,6 +1,7 @@
 ---
 title: Terms of Service
 permalink: /tos/
+redirect_to: https://notifhy.gitbook.io/docs/legal/terms-of-service
 ---
 # Terms of Service - February 17th, 2022
 These Terms of Service explain the limitations and guidelines for your use of this application.

@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 permalink: /privacy/
+redirect_to: https://notifhy.gitbook.io/docs/legal/privacy-policy
 ---
 # Privacy Policy - February 17th, 2022
 This Privacy Policy explains how we use and collect your the personal data when you use our application.
