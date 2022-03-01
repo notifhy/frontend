@@ -2,9 +2,8 @@
 icon: home
 order: 3
 ---
-# About NotifHy
 ![](https://i.imgur.com/tltt0Si.png)
-
+# About NotifHy
 NotifHy is a bot focused on alerts and notifications for the Hypixel server. Share logins with friends, get reminders when you are about to lose your daily reward streak, and get alerts on suspicious activity.
 
 ## Features
