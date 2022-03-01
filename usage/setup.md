@@ -6,7 +6,7 @@ order: 2
 
 ## Invite
 Invite the bot by clicking [here](https://attituding.github.io/NotifHy/invite/), the hyperlink below, clicking the link on the top-bar navigation, and then granting the OAuth2 scopes required.
-[!ref Invite](../invite.md)
+[!ref Invite](../invite.md "a")
 
 !!!primary
 You should use a server that you own or is owned by your friends, as some commands, such as **/channel**, require you to have elevated permissions
