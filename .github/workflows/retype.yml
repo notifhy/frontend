@@ -1,4 +1,4 @@
-name: Publish Retype powered website to GitHub Pages
+name: deploy retype page
 on:
   workflow_dispatch:
   push:
