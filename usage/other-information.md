@@ -10,7 +10,7 @@ Contact Attituding at [attituding@outlook.com](mailto:attituding@outlook.com) or
 You can view most of the data stored by the bot with **/data**. To see what your data looks like in the database, use **/data view all**. To view your history on Hypixel, use **/data view history**. If you want to delete your data, use **/data delete**.
 
 !!!danger
-To completely delete all of your data including log files and similar, contact [Attituding](mailto:attituding@outlook.com)
+To delete all of your data including log file and more, contact Attituding
 !!!
 
 ## Help
