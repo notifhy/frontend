@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: attituding.github.io/NotifHy/
 branding:
   title: NotifHy
   label: Discord Bot
@@ -16,4 +16,3 @@ links:
   iconAlign: right
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
-url: attituding.github.io/NotifHy/
