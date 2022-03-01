@@ -14,5 +14,9 @@ links:
   link: https://github.com/Attituding/NotifHy
   icon: mark-github
   iconAlign: left
+- text: Contact
+  link: mailto:attituding@outlook.com
+  icon: mail
+  iconAlign: left
 footer:
   copyright: "&copy; {{ year }} Attituding. All rights reserved."
