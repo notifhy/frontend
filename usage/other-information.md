@@ -1,4 +1,5 @@
 ---
+description: This page discusses less important but useful information to your use of NotifHy.
 order: 1
 ---
 # Other Information

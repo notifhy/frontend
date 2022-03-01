@@ -1,4 +1,5 @@
 ---
+description: This Setup page discusses basic setup and use of NotifHy.
 order: 2
 ---
 # Setup
