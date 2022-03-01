@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - gh-pages
+      - gh-pages-source
 
 jobs:
   publish:
@@ -18,5 +18,5 @@ jobs:
 
       - uses: retypeapp/action-github-pages@v1
         with:
-          branch: docs
+          branch: gh-pages
           update-branch: true
