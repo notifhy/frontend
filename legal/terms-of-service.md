@@ -1,5 +1,4 @@
 ---
-date: 2022-2-17
 order: 1
 ---
 # Terms of Service

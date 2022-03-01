@@ -1,5 +1,4 @@
 ---
-date: 2022-2-17
 order: 2
 ---
 # Privacy Policy

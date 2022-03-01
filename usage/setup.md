@@ -4,7 +4,7 @@ order: 2
 # Setup
 
 ## Invite
-Invite the bot by clicking [here](https://attituding.github.io/NotifHy/invite/) or clicking the link on the top-bar navigation and granting the OAuth2 scopes required.
+Invite the bot by clicking [here](https://attituding.github.io/NotifHy/invite/), the hyperlink below, clicking the link on the top-bar navigation, and then granting the OAuth2 scopes required.
 [!ref Invite](../invite.md)
 
 !!!primary
