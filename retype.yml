@@ -4,15 +4,15 @@ url: attituding.github.io/NotifHy/
 branding:
   title: NotifHy
   label: Discord Bot
-  logo: assets/NotifHy icon.png
+  logo: assets/NotifHy Icon.png
 links:
 - text: Invite
   link: https://attituding.github.io/NotifHy/invite/
   icon: link-external
-  iconAlign: right
+  iconAlign: left
 - text: GitHub
   link: https://github.com/Attituding/NotifHy
   icon: mark-github
-  iconAlign: right
+  iconAlign: left
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
