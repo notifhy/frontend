@@ -4,7 +4,7 @@ order: 2
 # Privacy Policy
 This Privacy Policy explains how we use and collect your the personal data when you use our application.
 
-Topics:
+## Topics
  - Definitions
  - What Data Do We Collect?
  - How Do We Collect Your Data?

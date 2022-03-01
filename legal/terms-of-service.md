@@ -4,7 +4,7 @@ order: 1
 # Terms of Service
 These Terms of Service explain the limitations and guidelines for your use of this application.
 
-Topics:
+## Topics
  - Definitions
  - What Are Our Terms of Use?
  - What Are Our Terms of Indemnification?

@@ -3,7 +3,6 @@ output: .retype
 url: attituding.github.io/NotifHy/
 branding:
   title: NotifHy
-  label: Discord Bot
   logo: assets/NotifHy Icon.png
 links:
 - text: Invite
