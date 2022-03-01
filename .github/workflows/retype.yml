@@ -20,3 +20,4 @@ jobs:
         with:
           branch: gh-pages
           directory: docs
+          update-branch: true
