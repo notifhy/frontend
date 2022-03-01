@@ -1,4 +1,4 @@
-name: deploy retype page
+name: deploy retype github page
 on:
   workflow_dispatch:
   push:
