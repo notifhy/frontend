@@ -26,8 +26,8 @@ Currently, only English is supported, but more languages may be supported in the
 
 ## Legal
 By using this service, you agree to our Privacy Policy and our Terms of Service.
-[!ref Privacy Policy](../legal/privacy-policy.md)
-[!ref Terms of Service](../legal/terms-of-service.md)
+[!ref target="blank" text="Privacy Policy"](../legal/privacy-policy.md)
+[!ref target="blank" text="Terms of Service"](../legal/terms-of-service.md)
 
 ## Maintenance
 NotifHy may go down at any time for a variety of reasons. For usages like the Rewards module, you are advised to have some sort of backup (e.g. an alarm).
