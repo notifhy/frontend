@@ -9,13 +9,16 @@ links:
   link: https://attituding.github.io/NotifHy/invite/
   icon: link-external
   iconAlign: left
+  target: blank
 - text: GitHub
   link: https://github.com/Attituding/NotifHy
   icon: mark-github
   iconAlign: left
+  target: blank
 - text: Contact
   link: mailto:attituding@outlook.com
   icon: mail
   iconAlign: left
+  target: blank
 footer:
   copyright: "&copy; {{ year }} Attituding. All rights reserved."
