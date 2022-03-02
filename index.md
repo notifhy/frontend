@@ -15,7 +15,7 @@ NotifHy is a bot focused on alerts and notifications for the Hypixel server. Sha
 
 ## Modules
 Modules are how different types of notifications are separated. Once you register, simply select and configure the modules you want to use.
-- The Defender Module is an implementation of [HyGuard](https://hypixel.net/threads/discord-bot-hyguard-a-bot-that-monitors-your-account-24-7.4368395/ "Hypixel Forums")
+- The Defender Module is an implementation of HyGuard
 - The Friends Module sends your login and logouts to a channel to share
 - The Rewards Module sends you a DM reminding you to claim your daily reward
 

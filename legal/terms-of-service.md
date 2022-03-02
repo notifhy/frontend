@@ -5,29 +5,29 @@ order: 1
 These Terms of Service explain the limitations and guidelines for your use of this application.
 
 ## Topics
- - Definitions
- - What Are Our Terms of Use?
- - What Are Our Terms of Indemnification?
- - What Are Our Terms of Termination?
- - Acceptance of Our Privacy Policy
- - Third-Party Terms of Services
- - Changes to Our Terms of Service
- - Contact Us
+- Definitions
+- What Are Our Terms of Use?
+- What Are Our Terms of Indemnification?
+- What Are Our Terms of Termination?
+- Acceptance of Our Privacy Policy
+- Third-Party Terms of Services
+- Changes to Our Terms of Service
+- Contact Us
 
 ## Definitions
 These definitions apply regardless of capitalization or quantity.
- - **Application** refers to NotifHy and the resources that are intellectual property of its operators for the purposes of operating NotifHy
- - **Company** (also referred to as "us", "we", "our") refers to Attituding and the other administrators, if any
- - **Service** refers to the purposes or functions that the application offers or can be used for
- - **You** (also referred to as "your") refers to the individual or legal entity accessing this application
+- **Application** refers to NotifHy and the resources that are intellectual property of its operators for the purposes of operating NotifHy
+- **Company** (also referred to as "us", "we", "our") refers to Attituding and the other administrators, if any
+- **Service** refers to the purposes or functions that the application offers or can be used for
+- **You** (also referred to as "your") refers to the individual or legal entity accessing this application
 
 ## What Are Our Terms of Use?
 You agree and confirm that you:
- - Are older than 13 years old
- - Are responsible for ensuring you do not breach the laws of your jurisdiction in the context of using this application's services
- - Will not attempt to damage or thereby interrupt this application's services
- - Will not use this application's services in a way that harms or violates other individuals or groups
- - Will not use this application in a way that spams or causes excessive API requests to or from this application
+- Are older than 13 years old
+- Are responsible for ensuring you do not breach the laws of your jurisdiction in the context of using this application's services
+- Will not attempt to damage or thereby interrupt this application's services
+- Will not use this application's services in a way that harms or violates other individuals or groups
+- Will not use this application in a way that spams or causes excessive API requests to or from this application
 
 
 ## What Are Our Terms of Indemnification?
