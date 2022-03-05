@@ -11,7 +11,7 @@ Contact Attituding at [attituding@outlook.com](mailto:attituding@outlook.com) or
 You can view most of the data stored by the bot with **/data**. To see what your data looks like in the database, use **/data view all**. To view your history on Hypixel, use **/data view history**. If you want to delete your data, use **/data delete**.
 
 !!!danger
-To delete all of your data including log file and more, contact Attituding
+To delete all of your data including log files and more, contact Attituding
 !!!
 
 ## Help
@@ -30,11 +30,11 @@ By using this service, you agree to our Privacy Policy and our Terms of Service.
 [!ref target="blank" text="Terms of Service"](../legal/terms-of-service.md)
 
 ## Maintenance
-NotifHy may go down at any time for a variety of reasons. For usages like the Rewards module, you are advised to have some sort of backup (e.g. an alarm).
+NotifHy may go down at any time for a variety of reasons. For usages of needs-to--be-reliable modules like the Rewards module, you are advised to have some sort of backup (e.g. an alarm).
 
 !!!primary
 Planned maintenances that last for more than an hour will be announced ahead of time
 !!!
 
 ## Refresh Rate
-NotifHy regularly checking your data through the Hypixel API to provide notifications. With ~50 users, the refresh rate can be anywhere from 30 seconds to a few minutes.
+NotifHy regularly checks your data through the Hypixel API to provide notifications. With ~50 users, the refresh rate can be anywhere from 30 seconds to a few minutes.
