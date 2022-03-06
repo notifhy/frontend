@@ -2,9 +2,9 @@
 order: 1
 ---
 # Terms of Service
-These Terms of Service explain the limitations and guidelines for your use of this application.
+Last Updated: February 17, 2022
 
-Last Updated: February 17th
+These Terms of Service explain the limitations and guidelines for your use of this application.
 
 ## Topics
 - Definitions
