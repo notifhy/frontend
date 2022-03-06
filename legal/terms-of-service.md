@@ -4,6 +4,8 @@ order: 1
 # Terms of Service
 These Terms of Service explain the limitations and guidelines for your use of this application.
 
+Last Updated: February 17th
+
 ## Topics
 - Definitions
 - What Are Our Terms of Use?
@@ -28,7 +30,6 @@ You agree and confirm that you:
 - Will not attempt to damage or thereby interrupt this application's services
 - Will not use this application's services in a way that harms or violates other individuals or groups
 - Will not use this application in a way that spams or causes excessive API requests to or from this application
-
 
 ## What Are Our Terms of Indemnification?
 This application and its services is provided to your "AS IS" and "AS AVAILABLE" with no warranty regarding any faults or issues. Under no circumstance will we be liable for any loss or damage of any kind incurred as a result of the use of this application.
