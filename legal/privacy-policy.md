@@ -1,10 +1,10 @@
 ---
 order: 2
 ---
+Last Updated: February 17, 2022
+
 # Privacy Policy
 This Privacy Policy explains how we use and collect your the personal data when you use our application.
-
-Last Updated: February 17, 2022
 
 ## Topics
 - Definitions
