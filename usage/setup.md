@@ -9,7 +9,7 @@ Invite the bot by clicking the invite below or clicking the link on the navigati
 [!ref target="blank" text="Invite"](../invite.md)
 
 !!!primary
-You are advised to use a server owned by yourself, friends, or your guild as some commands as [some commands](./commands.md) require you to have elevated permissions.
+You are advised to use a server owned by yourself, friends, or your guild as [some commands](./commands.md) require you to have elevated permissions.
 !!!
 
 ## Register
