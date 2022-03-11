@@ -30,9 +30,9 @@ View or delete your data stored by this bot
 |||
 
 ||| Cooldown
-15 seconds
+10 seconds
 ||| Requires Registration
-Yes
+No
 ||| Server Channel Only
 No
 |||

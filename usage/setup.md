@@ -22,10 +22,10 @@ Using **/discord** on Hypixel may be required to link or relink your Discord acc
 ## Modules
 Use **/modules** in to start configuring and using them.
 
-1. Use **/modules** followed by the module you are interested
-2. Configure the module with the select menus and buttons
+1. Use **/modules** followed by the module(s) you are interested
+2. Configure the module(s) with the select menus and buttons
 3. **/channel** can be used to set a channel to send alerts to for some modules
-4. Enable the module with Toggle setting
+4. Enable the module(s) with Toggle setting
 
 
 !!!primary
