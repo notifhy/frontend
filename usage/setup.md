@@ -1,6 +1,6 @@
 ---
-description: This Setup page discusses basic setup and use of NotifHy.
-order: 2
+description: This page discusses basic setup and use of NotifHy.
+order: 3
 ---
 # Setup
 
@@ -9,7 +9,7 @@ Invite the bot by clicking the invite below or clicking the link on the navigati
 [!ref target="blank" text="Invite"](../invite.md)
 
 !!!primary
-You should use a server that you own or is owned by your friends, as some commands, such as **/channel**, require you to have elevated permissions
+You are advised to use a server owned by yourself, friends, or your guild as some commands as [some commands](./commands.md) require you to have elevated permissions.
 !!!
 
 ## Register
