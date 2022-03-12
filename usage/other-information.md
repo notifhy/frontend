@@ -20,7 +20,7 @@ Use **/help** to get basic information or information about the available comman
 ## Language
 Use **/language** to set a language override. By default, languages are determined automatically through your Discord language setting.
 
-!!!primary
+!!!success 
 Currently, only English is supported, but more languages may be supported in the future
 !!!
 
@@ -32,7 +32,7 @@ By using this service, you agree to our Privacy Policy and our Terms of Service.
 ## Maintenance
 NotifHy may go down at any time for a variety of reasons. For usages of needs-to--be-reliable modules like the Rewards module, you are advised to have some sort of backup (e.g. an alarm).
 
-!!!primary
+!!!success 
 Planned maintenances that last for more than an hour will be announced ahead of time
 !!!
 
