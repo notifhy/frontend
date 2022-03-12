@@ -4,14 +4,16 @@ url: attituding.github.io/NotifHy/
 branding:
   title: NotifHy
   logo: assets/NotifHy Icon.png
+editor:
+  enabled: false
 links:
 - text: Invite
-  link: https://attituding.github.io/NotifHy/invite/
+  link: /invite/
   icon: link-external
   iconAlign: left
   target: blank
 - text: GitHub
-  link: https://github.com/Attituding/NotifHy
+  link: https://github.com/Attituding/NotifHy/
   icon: mark-github
   iconAlign: left
   target: blank
@@ -22,3 +24,23 @@ links:
   target: blank
 footer:
   copyright: "&copy; {{ year }} Attituding. All rights reserved."
+  links:
+    - text: About
+      link: /
+      iconAlign: left
+      target: self
+    - text: Privacy Policy
+      link: /legal/privacy-policy/
+      iconAlign: left
+      target: self
+    - text: Terms of Service
+      link: /legal/terms-of-service/
+      iconAlign: left
+      target: self
+    - text: MIT License
+      link: https://github.com/Attituding/NotifHy/blob/main/LICENSE/
+      icon: link-external
+      iconAlign: left
+      target: blank
+meta:
+  title: " - NotifHy"
