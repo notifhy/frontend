@@ -5,7 +5,7 @@ order: 3
 ![](https://i.imgur.com/tltt0Si.png)
 
 # About NotifHy
-A notification bot for Hypixel. Share logins with friends, get reminders to claim your daily reward, and get alerts on suspicious activity.
+NotifHy is a notification bot for Hypixel. Share logins with friends, get reminders to claim your daily reward, and get alerts on suspicious activity.
 
 ## Features
 - Simple, friendly, and easy-to-use interfaces
