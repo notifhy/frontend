@@ -37,10 +37,5 @@ footer:
       link: /legal/terms-of-service/
       iconAlign: left
       target: self
-    - text: MIT License
-      link: https://github.com/Attituding/NotifHy/blob/main/LICENSE/
-      icon: link-external
-      iconAlign: left
-      target: blank
 meta:
   title: " - NotifHy"
