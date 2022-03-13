@@ -37,5 +37,8 @@ footer:
       link: /legal/terms-of-service/
       iconAlign: left
       target: self
+integrations:
+  googleAnalytics:
+    id: G-3RX0ZHZ5ZN
 meta:
   title: " - NotifHy"
