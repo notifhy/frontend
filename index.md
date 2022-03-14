@@ -26,4 +26,4 @@ This bot is the successor to HyGuard, which you can read about [here](https://hy
 - Configuring what kind of notifications you get have gone from 6+ different commands to **/modules**
 
 ## Trailer
-[!embed](https://youtu.be/hY4h8CkSg8s)
+[!embed](https://youtu.be/_yAVuZBMcdk)
