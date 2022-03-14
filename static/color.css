@@ -2,7 +2,7 @@
 
 /*  ! tailwindcss v3.0.19 | MIT License | https://tailwindcss.com */
 .border-blue-500 {
-    border-color: rgb(234 179 8 / var(--tw-border-opacity));
+    border-color: rgb(220, 175, 78 / var(--tw-border-opacity));
 }
 .border-blue-100 {
     border-color: rgb(254 249 195 / var(--tw-border-opacity));
@@ -11,7 +11,7 @@
     border-color: rgb(253 224 71 / var(--tw-border-opacity));
 }
 .bg-blue-500 {
-    background-color: rgb(234 179 8 / var(--tw-bg-opacity));
+    background-color: rgb(220, 175, 78 / var(--tw-bg-opacity));
 }
 .bg-blue-100 {
     background-color: rgb(254 249 195 / var(--tw-bg-opacity));
@@ -23,10 +23,10 @@
     background-color: rgb(254 240 138 / var(--tw-bg-opacity));
 }
 .text-blue-500 {
-    color: rgb(234 179 8 / var(--tw-text-opacity));
+    color: rgb(220, 175, 78 / var(--tw-text-opacity));
 }
 .text-blue-600 {
-    color: rgb(202 138 4 / var(--tw-text-opacity));
+    color: rgb(220, 175, 78 / var(--tw-text-opacity));
 }
 .text-blue-300 {
     color: rgb(253 224 71 / var(--tw-text-opacity));
@@ -50,7 +50,7 @@
 .docs-markdown h4 .header-anchor-trigger,
 .docs-markdown h5 .header-anchor-trigger,
 .docs-markdown h6 .header-anchor-trigger {
-    color: rgb(202 138 4 / var(--tw-text-opacity)) !important;
+    color: rgb(220, 175, 78 / var(--tw-text-opacity)) !important;
 }
 .docs-markdown h1 .header-anchor-trigger:hover,
 .docs-markdown h2 .header-anchor-trigger:hover,
@@ -67,7 +67,15 @@
 .dark .docs-markdown h4 .header-anchor-trigger,
 .dark .docs-markdown h5 .header-anchor-trigger,
 .dark .docs-markdown h6 .header-anchor-trigger {
-    color: rgb(234 179 85 / var(--tw-text-opacity)) !important;
+    color: rgb(220, 175, 78 / var(--tw-text-opacity)) !important;
+}
+.dark .docs-markdown h1 .header-anchor-trigger:hover,
+.dark .docs-markdown h2 .header-anchor-trigger:hover,
+.dark .docs-markdown h3 .header-anchor-trigger:hover,
+.dark .docs-markdown h4 .header-anchor-trigger:hover,
+.dark .docs-markdown h5 .header-anchor-trigger:hover,
+.dark .docs-markdown h6 .header-anchor-trigger:hover {
+    color: rgb(254 240 138 / var(--tw-text-opacity)) !important;
 }
 .doc-alert.doc-alert-contrast a {
     color: rgb(234 179 8 / var(--tw-text-opacity));
@@ -99,7 +107,7 @@
 
 
 .md\:text-blue-500 {
-    color: rgb(234 179 8 / var(--tw-text-opacity));
+    color: rgb(220, 175, 78 / var(--tw-text-opacity));
 }
 .hover\:bg-blue-700:hover {
     background-color: rgb(161 98 7 / var(--tw-bg-opacity));
@@ -126,16 +134,16 @@
     color: rgb(113 63 18 / var(--tw-text-opacity));
 }
 .group:hover .group-hover\:text-blue-500 {
-    color: rgb(234 179 8 / var(--tw-text-opacity));
+    color: rgb(220, 175, 78 / var(--tw-text-opacity));
 }
 .dark .dark\:border-blue-400 {
-    border-color: rgb(250 204 21 / var(--tw-border-opacity));
+    border-color: rgb(220, 175, 78 / var(--tw-border-opacity));
 }
 .dark .dark\:bg-blue-400 {
-    background-color: rgb(250 204 21 / var(--tw-bg-opacity));
+    background-color: rgb(220, 175, 78 / var(--tw-bg-opacity));
 }
 .dark .dark\:text-blue-400 {
-    color: rgb(250 204 21 / var(--tw-text-opacity));
+    color: rgb(220, 175, 78 / var(--tw-text-opacity));
 }
 .dark .dark\:text-blue-300 {
     color: rgb(253 224 71 / var(--tw-text-opacity));
@@ -153,11 +161,11 @@
     color: rgb(254 249 195 / var(--tw-text-opacity));
 }
 .dark .dark\:hover\:text-blue-400:hover {
-    color: rgb(250 204 21 / var(--tw-text-opacity));
+    color: rgb(220, 175, 78 / var(--tw-text-opacity));
 }
 .dark .dark\:focus\:text-blue-100:focus {
     color: rgb(254 249 195 / var(--tw-text-opacity));
 }
 .dark .group:hover .dark\:group-hover\:text-blue-400 {
-    color: rgb(250 204 21 / var(--tw-text-opacity));
+    color: rgb(220, 175, 78 / var(--tw-text-opacity));
 }
