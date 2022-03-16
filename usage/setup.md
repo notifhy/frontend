@@ -24,8 +24,8 @@ Use **/modules** in to start configuring and using them.
 
 1. Use **/modules** followed by the module(s) you are interested
 2. Configure the module(s) with the select menus and buttons
-3. **/channel** can be used to set a channel to send alerts to for some modules
-4. Enable the module(s) with Toggle setting
+3. **/channel** can set where notifications should be sent for some modules
+4. Enable the module(s) with the Toggle setting
 
 !!!success 
 The Toggle setting will display if any settings still need to be configured before use.
