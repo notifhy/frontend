@@ -22,7 +22,7 @@ links:
   icon: mail
   iconAlign: left
   target: blank
-favicon: assets/favicon.png
+favicon: assets/favicon.ico
 footer:
   copyright: "&copy; {{ year }} Attituding. All rights reserved."
   links:
