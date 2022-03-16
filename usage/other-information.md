@@ -11,7 +11,7 @@ Contact Attituding at [attituding@outlook.com](mailto:attituding@outlook.com) or
 You can view most of the data stored by the bot with **/data**. To see what your data looks like in the database, use **/data view all**. To view your history on Hypixel, use **/data view history**. If you want to delete your data, use **/data delete**.
 
 !!!danger
-To delete all of your data including log files and more, contact Attituding
+**/data delete** will not remove everything. To also include log fiels and more, contact Attituding.
 !!!
 
 ## Help
@@ -21,7 +21,7 @@ Use **/help** to get basic information or information about the available comman
 Use **/language** to set a language override. By default, languages are determined automatically through your Discord language setting.
 
 !!!success 
-Currently, only English is supported, but more languages may be supported in the future
+Currently, only English is supported, but more languages may be supported in the future.
 !!!
 
 ## Legal

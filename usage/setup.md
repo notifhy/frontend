@@ -16,7 +16,7 @@ You are advised to use a server owned by yourself, friends, or your guild as [so
 Use **/register** followed by your username or UUID to link your Minecraft account to your Discord account. This is required in order to begin using **/modules**.
 
 !!!warning
-Using **/discord** on Hypixel may be required to link or relink your Discord account to your Minecraft account
+Using **/discord** on Hypixel may be required to link or relink your Discord account to your Minecraft account.
 !!!
 
 ## Modules
@@ -27,7 +27,6 @@ Use **/modules** in to start configuring and using them.
 3. **/channel** can be used to set a channel to send alerts to for some modules
 4. Enable the module(s) with Toggle setting
 
-
 !!!success 
-The Toggle setting will display if any settings still need to be configured before use
+The Toggle setting will display if any settings still need to be configured before use.
 !!!
