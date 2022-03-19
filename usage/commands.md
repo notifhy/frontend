@@ -6,7 +6,7 @@ order: 2
 # Commands
 
 ## Information
-Click on the command to see more about it.
+Click on a command to learn more about it.
 
 +++ **/channel**
 Modify the channel for the Defender or Friends Module
