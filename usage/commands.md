@@ -97,7 +97,7 @@ No
 +++
 
 ## Structures
-The metadata of the commands formatted in the YAML file type.
+The command metadata formatted in the YAML file type.
 
 ==- /channel
 ```yaml
