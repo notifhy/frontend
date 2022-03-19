@@ -5,14 +5,7 @@ order: 2
 # Commands
 
 ## /channel
-
-||| Description
 Modify the channel for the Defender or Friends Module
-|||
-
-||| Notes
-Requires you to have the **Manage Channel(s)** or **Manage Webhook(s)** permission
-|||
 
 ||| Cooldown
 5 seconds
@@ -22,12 +15,13 @@ Yes
 Yes
 |||
 
+!!!warning
+You must have the **Manage Channel(s)** or **Manage Webhook(s)** permission to use this command
+|||
+
 
 ## /data
-
-||| Description
 View or delete your data stored by this bot
-|||
 
 ||| Cooldown
 10 seconds
@@ -38,10 +32,7 @@ No
 |||
 
 ## /help
-
-||| Description
 Displays helpful information and available commands
-|||
 
 ||| Cooldown
 5 seconds
@@ -52,14 +43,7 @@ No
 |||
 
 ## /language
-
-||| Description
 Override the language for this bot
-|||
-
-||| Notes
-English is the only language currently supported
-|||
 
 ||| Cooldown
 10 seconds
@@ -69,15 +53,12 @@ No
 No
 |||
 
+!!!primary
+English is the only language currently supported
+|||
+
 ## /modules
-
-||| Description
 Add or remove modules for your Minecraft account
-|||
-
-||| Notes
-The gateway to setting up notifications
-|||
 
 ||| Cooldown
 5 seconds
@@ -88,10 +69,7 @@ No
 |||
 
 ## /player
-
-||| Description
 View basic data on almost any Hypixel player
-|||
 
 ||| Cooldown
 10 seconds
@@ -101,11 +79,12 @@ No
 No
 |||
 
-## /register
-
-||| Description
-Link your Minecraft account and start using the modules offered
+!!!warning
+This command may be disabled in the future
 |||
+
+## /register
+Link your Minecraft account and start using the modules offered
 
 ||| Cooldown
 5 seconds
