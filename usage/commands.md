@@ -17,7 +17,7 @@ Yes
 
 !!!warning
 You must have the **Manage Channel(s)** or **Manage Webhook(s)** permission to use this command
-|||
+!!!
 
 
 ## /data
@@ -53,9 +53,9 @@ No
 No
 |||
 
-!!!primary
+!!!success
 English is the only language currently supported
-|||
+!!!
 
 ## /modules
 Add or remove modules for your Minecraft account
@@ -81,7 +81,7 @@ No
 
 !!!warning
 This command may be disabled in the future
-|||
+!!!
 
 ## /register
 Link your Minecraft account and start using the modules offered

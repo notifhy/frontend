@@ -8,7 +8,7 @@ order: 3
 Invite the bot by clicking the invite below or clicking the link on the navigation menu, and then granting the OAuth2 scopes required.
 [!ref target="blank" text="Invite"](../invite.md)
 
-!!!primary 
+!!!success  
 You are advised to use a server owned by yourself, friends, or your guild as [some commands](./commands.md) require you to have elevated permissions.
 !!!
 
@@ -27,6 +27,6 @@ Use **/modules** in to start configuring and using them.
 3. **/channel** can set where notifications should be sent for some modules
 4. Enable the module(s) with the Toggle setting
 
-!!!primary 
+!!!success 
 The Toggle setting will display if any settings still need to be configured before use.
 !!!
