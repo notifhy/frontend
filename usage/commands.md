@@ -19,8 +19,9 @@ Yes
 Yes
 |||
 
+
 !!!warning
-You must have the **Manage Channel(s)** or **Manage Webhook(s)** permission to use this command
+You must have the **Manage Channel(s)** or **Manage Webhook(s)** permission to use this command.
 !!!
 +++ **/data**
 View or delete your data stored by this bot
@@ -34,7 +35,7 @@ No
 |||
 
 !!!danger
-**/data delete** will not remove everything. To also include log files and similar, contact Attituding.
+**/data delete** will not remove everything. To also delete log files and similar, contact Attituding.
 !!!
 +++ **/help**
 Displays helpful information and available commands
@@ -97,7 +98,7 @@ No
 +++
 
 ## Structures
-The command metadata formatted in the YAML file type.
+The layouts of each command in the YAML format.
 
 ==- /channel
 ```yaml
