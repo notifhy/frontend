@@ -24,7 +24,7 @@ links:
   target: blank
 favicon: assets/favicon.ico
 footer:
-  copyright: "&copy; {{ year }} [Attituding](https:attituding.live/). All rights reserved."
+  copyright: "&copy; {{ year }} [Attituding](https://attituding.live/). All rights reserved."
   links:
     - text: About
       link: /
