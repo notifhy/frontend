@@ -177,7 +177,7 @@ options:
                 - name: '/register'
                   value: register
     - name: information
-      description: 'Returns information about this bot '
+      description: Returns information about this bot
       type: SUB_COMMAND
 ```
 ==- /language
