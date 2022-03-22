@@ -3,7 +3,7 @@ output: .retype
 url: notifhy.attituding.live
 branding:
   title: NotifHy
-  logo: assets/NotifHy Icon.png
+  logo: assets/notifhy-icon.png
 editor:
   enabled: false
 links:
