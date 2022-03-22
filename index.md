@@ -9,7 +9,7 @@ NotifHy is a notification bot for Hypixel. Share logins with friends, get remind
 
 ## Features
 - Simple, friendly, and easy-to-use interfaces
-- Limited Discord permissions required
+- Minimal Discord permissions and scopes required
 - Quick and responsive notifications
 
 ## Modules
