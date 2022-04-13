@@ -9,7 +9,7 @@ NotifHy is a notification bot for Hypixel. Share logins with friends, get remind
 
 ## Deprecation
 !!!danger Deprecation
-NotifHy is being decommissioned on July 5th, 2022. There are no alternatives being offered at this time.
+NotifHy is being discontinued on July 5th, 2022. Until then, you can continue to use this bot unless circumstances change earlier. Once NotifHy is taken offline, all user data will be destroyed as per our privacy policy.
 !!!
 
 ## Features
