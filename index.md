@@ -7,11 +7,6 @@ order: 3
 # About NotifHy
 NotifHy is a notification bot for Hypixel. Share logins with friends, get reminders to claim daily rewards, and get alerts on suspicious activity.
 
-## Deprecation
-!!!danger Deprecation
-NotifHy is being discontinued on July 5th, 2022. Until then, you can continue to use this bot unless circumstances change earlier. Once NotifHy is taken offline, all user data will be destroyed as per our privacy policy.
-!!!
-
 ## Features
 - Simple, friendly, and easy-to-use interfaces
 - Minimal Discord permissions and scopes required
