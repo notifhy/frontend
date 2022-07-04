@@ -19,7 +19,7 @@ Last Updated: February 17, 2022
 ## Definitions
 These definitions apply regardless of capitalization or quantity.
 - **Application** refers to NotifHy and the resources that are intellectual property of its operators for the purposes of operating NotifHy
-- **Company** (also referred to as "us", "we", "our") refers to Attituding and the other administrators, if any
+- **Company** (also referred to as "us", "we", "our") refers to the administrators of this service
 - **Service** refers to the purposes or functions that the application offers or can be used for
 - **You** (also referred to as "your") refers to the individual or legal entity accessing this application
 
@@ -47,4 +47,4 @@ Our application contains links to other websites. Our Terms of Service only appl
 We may update our Terms of Service from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Terms of Service on this page. These changes are effective immediately, after they are posted on this page.
 
 ## Contact Us
-If you have any questions about this application's Terms of Service, please do not hesitate to contact us at attituding@outlook.com.
+If you have any questions about this application's Terms of Service, please do not hesitate to contact us at your_email_hour@email.com.

@@ -2,9 +2,9 @@
 order: 2
 ---
 # Privacy Policy
-This Privacy Policy explains how we use and collect your the personal data when you use our application.
+This Privacy Policy explains how we use and collect your personal data when you use our application.
 
-Last Updated: February 17, 2022
+Last Updated: July 4th, 2022
 
 ## Topics
 - Definitions
@@ -21,7 +21,7 @@ Last Updated: February 17, 2022
 ## Definitions
 These definitions apply regardless of capitalization or quantity.
 - **Application** refers to NotifHy and the resources that are the intellectual property of its operators for the purposes of operating NotifHy
-- **Company** (also referred to as "us", "we", "our") refers to Attituding and the other administrators, if any
+- **Company** (also referred to as "us", "we", "our") refers to the administrators of this service
 - **Service** refers to the purposes or functions that the application offers
 - **You** (also referred to as "your") refers to the individual or legal entity accessing this application
 
@@ -97,4 +97,4 @@ Our application contains links to other websites. Our Privacy Policy only applie
 We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
 ## Contact Us
-If you have any questions about this application's Privacy Policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us at attituding@outlook.com.
+If you have any questions about this application's Privacy Policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us at your_email_hour@email.com.
