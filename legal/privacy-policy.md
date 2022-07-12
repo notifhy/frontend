@@ -97,4 +97,4 @@ Our application contains links to other websites. Our Privacy Policy only applie
 We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
 ## Contact Us
-If you have any questions about this application's Privacy Policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us at your_email_hour@email.com.
+If you have any questions about this application's Privacy Policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us at your@email.com.

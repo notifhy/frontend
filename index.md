@@ -4,6 +4,9 @@ order: 3
 ---
 ![](./assets/notifhy-banner.png)
 
+# Project Status
+NotifHy was made before Hypixel clearly defined the rules of their API. Now, this bot violates the rules established at https://api.hypixel.net/. For this reason, this project has been (somewhat) abandoned, and no more features will be added. The public bot that once hosted an instance of NotifHy has been deleted. This site has been scrubbed, and emails, invites, etc have been replaced with example text.
+
 # About NotifHy
 NotifHy is a notification bot for Hypixel. Share logins with friends, get reminders to claim daily rewards, and get alerts on suspicious activity.
 
