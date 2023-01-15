@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: notifhy.attituding.live
+url: notifhy.attituding.xyz
 branding:
   title: NotifHy
   logo: assets/notifhy-icon.png
@@ -29,7 +29,7 @@ links:
   target: blank
 favicon: assets/favicon.ico
 footer:
-  copyright: "&copy; {{ year }} [Attituding](https://attituding.live/). All rights reserved."
+  copyright: "&copy; {{ year }} [Attituding](https://attituding.xyz/). All rights reserved."
   links:
     - text: About
       link: /
